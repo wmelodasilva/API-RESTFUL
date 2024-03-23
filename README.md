@@ -1,22 +1,23 @@
 # API REST FULL MARKETPLACE  - SPRING BOOT 3    
 
-### Projeto de uma API RESTFULL  de marketplace a onde o foco foi fazer a relação CRUD, para que a mesma seja consumida.
+ Projeto de uma API RESTFULL  de marketplace a onde o foco foi fazer a relação CRUD, para que a mesma seja consumida.
 
 # INDICE 
 <a href="#Tecnologias">Tecnologias usadas </a> <p>
 <a href="#Consumo">Consumo da API </a> <p>
 <a href="#Autor">Quem sou eu</a> <p>
 <a href="#Referencia">Referências externas</a> <p>
+<p></p>
 
 # Consumo
 
 Métodos para o chamado no POST gerando conectividade da atividade com os CRUDs realizado 
 ![pg_4min](/assets/img.png)<p>
 
-Ferramenta utilizada para criação do bd e para controle de acesso via POST do CRUD.
+Ferramenta utilizada para criação do bd e para controle de acesso via POST do CRUD. <p>
 <img width="300px" src="assets/img_1.png"><p>
 
-Tabela criada e suas tuplas.
+Tabela criada e suas tuplas. <p>
 ![pg_4min](/assets/img_2.png)<p>
 
 
